@@ -2,6 +2,13 @@
 
 > A Vue.js project using Yandex Translate API and Semantic-UI
 
+## Screenshots
+
+<div align="center">
+<img src="https://github.com/medinacharlesdan/wordtranslator-Yandex/blob/master/Screenshot-2018-1-16%20yandexvue(1).png"> 
+<img src="https://github.com/medinacharlesdan/wordtranslator-Yandex/blob/master/Screenshot-2018-1-16%20yandexvue.png" >
+</div>
+
 
 ## Build Setup
 
@@ -22,9 +29,3 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/),[docs for vue-loader](http://vuejs.github.io/vue-loader).
 tutorial and Traversy Media Youtube channel(https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA).
 
-## Screenshots
-
-<div align="center">
-<img src="https://github.com/medinacharlesdan/wordtranslator-Yandex/blob/master/Screenshot-2018-1-16%20yandexvue(1).png" width="600"> 
-<img src="https://github.com/medinacharlesdan/wordtranslator-Yandex/blob/master/Screenshot-2018-1-16%20yandexvue.png" width="600">
-</div>
